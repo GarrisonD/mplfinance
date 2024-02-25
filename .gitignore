@@ -1,0 +1,4 @@
+1-without-liberation-fonts/*
+2-with-liberation-fonts/*
+
+!.keep
